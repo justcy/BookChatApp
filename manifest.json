@@ -1,6 +1,6 @@
 {
     "name" : "BookChat",
-    "appid" : "__UNI__8FAB29C",
+    "appid" : "__UNI__A444910",
     "description" : "",
     "versionName" : "1.7.0",
     "versionCode" : 170,
@@ -90,10 +90,12 @@
     "quickapp" : {},
     /* 小程序特有相关 */
     "mp-weixin" : {
-        "appid" : "wx3485915f4bdab8fb",
+        "appid" : "wx983eb03c56c14f38",
         "setting" : {
             "urlCheck" : false,
-            "es6" : false
+            "es6" : false,
+            "postcss" : true,
+            "minified" : true
         },
         "usingComponents" : true,
         "uniStatistics" : {
